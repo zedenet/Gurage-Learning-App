@@ -3,6 +3,8 @@
 A child-friendly Android app for learning the Gurage language through lessons and
 interactive activities.
 
+**Google Play:** 10K+ downloads · 4.7/5 rating
+
 ## Features
 
 - Learn letters and numbers with audio.
